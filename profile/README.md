@@ -1,4 +1,4 @@
-<br>
+
 <!-- arreglar desborde -->
 <h2 align="center">Primer año</h2> 
 <div align="center">
