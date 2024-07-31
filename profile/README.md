@@ -1,12 +1,17 @@
-## PRUEBAAA
+<br>
+<!-- arreglar desborde -->
+<h2 align="center">Primer año</h2> 
+<div align="center">
+    <a href="https://github.com/NahuelArn/Conceptos-de-Algoritmos-Datos-y-Programas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NahuelArn&repo=Conceptos-de-Algoritmos-Datos-y-Programas&theme=highcontrast&title_color=3070FFFF&icon_color=3070FFFF&show_icons=false&border_color=212989"></a>
+    <a href="https://github.com/NahuelArn/Lenguaje-ensamblador-assembly-"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NahuelArn&repo=Lenguaje-ensamblador-assembly-&theme=highcontrast&title_color=3070FFFF&icon_color=3070FFFF&show_icons=false&border_color=212989"></a>
+    <a href="https://github.com/NahuelArn/Paradigmas-De-Programacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NahuelArn&repo=Paradigmas-De-Programacion&theme=highcontrast&title_color=3070FFFF&icon_color=3070FFFF&show_icons=false&border_color=212989"></a>
 
-<!--
+</div>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2 align="center">Segundo año</h2>
+<div align="center">
+    <a href="https://github.com/NahuelArn/Algoritmos-Y-Estructura-De-Datos-AYED"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NahuelArn&repo=Algoritmos-Y-Estructura-De-Datos-AYED&theme=highcontrast&title_color=3070FFFF&icon_color=3070FFFF&show_icons=false&border_color=212989"></a>
+    <a href="https://github.com/NahuelArn/Fundamentos-De-Organizacion-De-Datos-FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NahuelArn&repo=Fundamentos-De-Organizacion-De-Datos-FOD&theme=highcontrast&title_color=3070FFFF&icon_color=3070FFFF&show_icons=false&border_color=212989"></a>
+    <a href="https://github.com/NahuelArn/Seminario-De-Lenguajes-Rust"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NahuelArn&repo=Seminario-De-Lenguajes-Rust&theme=highcontrast&title_color=3070FFFF&icon_color=3070FFFF&show_icons=false&border_color=212989"></a>
+<br>
+</div>
